@@ -41,7 +41,7 @@ const AboutMe = () => {
             <div className={classes.root} id="aboutme" >
                 <div className={classes.content}>
                     <h1 style={{ fontFamily: 'Roboto' }}>Developer: Gino Tasis</h1>
-                    <h3>Software Engineer Learner at Per Scholas</h3>
+                    <h3>Software Engineer at Per Scholas</h3>
                     <a href="https://www.linkedin.com/in/ginotasis/"><h3>LinkedIn</h3></a>
                 </div>
 
